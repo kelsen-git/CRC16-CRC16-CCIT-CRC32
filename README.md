@@ -1,4 +1,4 @@
-# CRC16-CRC16-CCIT-CRC32
+# CRC16-CCIT javascript
 CRC16-CRC16-CCIT-CRC32 algorithm javascript
 
 
