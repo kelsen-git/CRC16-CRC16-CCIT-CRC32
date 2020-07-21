@@ -10,7 +10,9 @@ CRC16_CCITT和C语言的一致
     // var buffData = new Buffer('0001A0', 'hex');
     byte_val = buffData[i];
 ```
+```javascript
     // 高低位互换，输出符合相关工具对Modbus CRC16的运算
-  if (formatLow){
-    crc = ((crc & 0xff00) >> 8) | ((crc & 0x00ff) << 8);
-  }
+    if (formatLow){
+      crc = ((crc & 0xff00) >> 8) | ((crc & 0x00ff) << 8);
+    }
+```
