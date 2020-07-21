@@ -1,0 +1,5 @@
+# CRC16-CRC16-CCIT-CRC32
+CRC16-CRC16-CCIT-CRC32 algorithm javascript
+
+
+CRC16_CCITT和C语言的一致
